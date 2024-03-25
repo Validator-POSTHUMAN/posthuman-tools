@@ -7,4 +7,4 @@ Validator POSTHUMAN creates a lot of useful tools for developers, validators and
 - [proposals.posthuman.digital](https://proposals.posthuman.digital/) - UI to create text proposals in the Cosmos Ecosystem networks
 - [Voting Power](https://votingpower.org/) - UI to vote on proposals in the Cosmos Ecosysetm networks
 - [claim.posthuman.digital](https://claim.posthuman.digital/) - UI to claim $PHMN-StakeDrop
-- [PHMN stats](https://phmn-stats.posthuman.digital/) - full stats for $PHMN
+- [PHMN stats](https://phmn-stats.posthuman.digital/) - Full stats for $PHMN: price, liquidity, distribution, DAS-members and many more
